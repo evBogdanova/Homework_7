@@ -1,7 +1,7 @@
 # Homework_7
 
-London is the capital of Russian Federation.
+London is the capital of Great Britain.
 
-Pigeon isn't a bird.
+Pigeon is a bird!
 
 Whoooo hoooo
